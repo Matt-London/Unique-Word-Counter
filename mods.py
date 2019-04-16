@@ -1,3 +1,5 @@
+## Just tests for the functions within words.py, not a necessary file
+
 def numWords(a):
 	s = a.split()
 	print(s)
